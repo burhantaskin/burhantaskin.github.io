@@ -1,8 +1,8 @@
 # Hello World
     This is my home page! My name is Burhan Taskin and I am a student at Cal State Fullerton and my major is computer science.
-## Computer Science Projects
+# Computer Science Projects
     My GitHub page is http://github.com/burhantaskin.
-### CPSC 120
+# CPSC 120
 * Lab 6
     Lab 6, part 1 was one of my favorites because we got to make a pattern using loops. During this part, I was able to write loops using lines and all of these lines were in a pattern which was the cool and appealingly pleasant part. Also, this was a fun lab because I really like making patterns and I got to learn how to make them.
 * Lab 8
